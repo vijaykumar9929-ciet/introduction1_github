@@ -18,8 +18,6 @@ this is horizontal line
 3.kabbadi
 4.hockey
 
-[apssdc](htpps://www.apssdc.in)
-[ciet](https://www.chalapathiengg.ac.in)
-
-
-
+[apssdc](http://www.apssdc.in)
+[ciet](http://www.chalapathiengg.ac.in)
+![image](https://miro.medium.com/max/860/1*9onqVYdPPrCcwDX6mGKCpg.jpeg)
